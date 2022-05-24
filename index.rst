@@ -4,15 +4,14 @@ ij.start.canon - Canon Printer Setup Windows/ Mac
 
 
 .. image:: Get-Started.png
-    :width: 600px
+    :width: 500px
     :align: center
     :height: 100px
-    :alt: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com 
+    :alt: ij.start.canon
+    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
 
 
-##################
-Get Started 
-##################
+
 
 
 
